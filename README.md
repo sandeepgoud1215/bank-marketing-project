@@ -46,4 +46,4 @@ This project uses machine learning techniques to analyze a banking dataset and p
 ## 📎 Author
 **Sandeep Yelikatte**
 
-📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sandeepgoud1215)
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/ysg05/)
