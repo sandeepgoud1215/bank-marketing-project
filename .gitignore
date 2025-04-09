@@ -50,3 +50,11 @@ Thumbs.db
 
 # Ignore dataset (if not public)
 data/
+
+__pycache__/
+*.pkl
+*.zip
+.env
+.ipynb_checkpoints/
+.DS_Store
+
