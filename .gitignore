@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# MacOS
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Flask-related
+instance/
+*.log
+
+# Python environment
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.pdb
+
+# Model and large files
+*.pkl
+*.joblib
+*.h5
+
+# Render deployment
+*.sqlite3
+*.db
+
+# ZIP files
+*.zip
+
+# System files
+Thumbs.db
+
+# Ignore dataset (if not public)
+data/
